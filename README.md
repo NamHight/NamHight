@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="NamHight" />
+  <img src="svg/namcao.svg" width="1200" alt="NamHight" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>

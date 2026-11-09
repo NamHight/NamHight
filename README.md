@@ -14,10 +14,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
@@ -58,15 +54,15 @@
 
 <div align="center">
 
-  <a href="YOUR_PROJECT_LINK_1" target="_blank">
+  <a href="https://ask.cimigo.com/vi/report" target="_blank">
     <img src="https://img.shields.io/badge/Project_1-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 
-  <a href="YOUR_PROJECT_LINK_2" target="_blank">
+  <a href="https://rapidsurvey.cimigo.com/project" target="_blank">
     <img src="https://img.shields.io/badge/Project_2-Visit_Website-green?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 
-  <a href="YOUR_PROJECT_LINK_3" target="_blank">
+  <a href="https://www.primehealthmd.com/" target="_blank">
     <img src="https://img.shields.io/badge/Project_3-Visit_Website-orange?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 
